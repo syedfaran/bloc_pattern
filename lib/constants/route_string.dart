@@ -1,0 +1,3 @@
+class RouteString{
+  RouteString._();
+}
